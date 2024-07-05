@@ -1,2 +1,2 @@
 # Blog-platform-API
-RESTful API for a siple blog platfor
+RESTful API for a simple blog platform
